@@ -1,5 +1,5 @@
 {
-    "name": "hfig/mapi",
+    "name": "epgweb/mapi",
     "description": "Pure PHP library for reading and manipulating Microsoft Outlook .msg messages (MAPI documents)",
     "license": "MIT",
     "require": {
